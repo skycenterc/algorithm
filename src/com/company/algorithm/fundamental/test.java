@@ -3,8 +3,8 @@ package com.company.algorithm.fundamental;
 public class test {
     public static void main(String[] args) {
 
-        // System.out.println(gcd(132,88));
-        System.out.println(rank(5, new int[]{2,6,8,10}));
+        System.out.println(gcd(88,132));
+        // System.out.println(rank(5, new int[]{2,6,8,10}));
     }
 
     /**
